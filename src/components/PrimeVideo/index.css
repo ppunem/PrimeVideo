@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.image {
+  height: 40vh;
+  width: 100vw;
+  margin-bottom: 0px;
+}
+.head {
+  font-family: 'roboto';
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+.bg {
+  min-height: 60vh;
+  background-color: #000000;
+  padding: 25px;
+  margin: 0px;
+}

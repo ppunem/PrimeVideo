@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.tumbnail-img {
+  height: 150px;
+  width: 320px;
+  margin-left: 20px;
+  margin-bottom: 25px;
+}
+.cont {
+  background-color: #ffffff;
+  padding: 15px;
+}
+.close-icon{
+  background-color: #ffffff;
+  border: none;
+}
